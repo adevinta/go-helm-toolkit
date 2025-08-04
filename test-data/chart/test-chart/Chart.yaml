@@ -1,0 +1,4 @@
+apiVersion: v1
+description: An test chart that should not be used.
+name: test-chart
+version: 0.1
